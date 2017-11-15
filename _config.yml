@@ -1,0 +1,97 @@
+---
+title: Kid's Cup of Rochester
+timezone: UTC
+collections:
+  uploads:
+    title: Uploads
+    output: true
+email: kidscuprochester@gmail.com
+description: Kid's Cup Rochester Golf Tournament
+baseurl: "/"
+url: https://kidscuprochester.github.io
+markdown: kramdown
+plugins:
+- jekyll-feed
+next_event:
+  date: 2018-05-08 00:00:00.000000000 Z
+  time: 9:30 - 6:00 PM
+  location: Somerby Golf Club
+  directions_url: https://www.google.com/maps/dir//''/@44.0477542,-92.6697751,13z/data=!4m8!4m7!1m0!1m5!1m1!1s0x87f742b8acef5c79:0xe0c57d3c2c3b35dd!2m2!1d-92.6347557!2d44.0476979
+who_we_are:
+  text: |
+    What began in 1997 as the Miracle Marathon has evolved over the past two decades to the Kid’s Cup Golf Tournament. In the beginning, Mark and Sheryl Tasler simply donated $10,000 to the Miracle Marathon, but with much thought they realized their dollars could go much further.  Rather than donate a lump sum, they began sponsoring the tournament.
+
+    In turn, rather than raise money per hole played, the tournament’s format was changed and golfers began fundraising.  With this transition, the Tasler’s saw their $10,000 donation grow more than tenfold.
+
+    Guided by a small group of volunteers, the tournament is on its 22nd year, and has raised over $1.5 million.  Initially benefitting Mayo Clinic Children’s Center and Gillette Children’s Hospital, in 2012 Kid’s Cup decided all proceeds should stay local and has since benefitted Mayo Clinic and Prenatal and Infant Care at Olmsted Medical Center.  Now, when we say “benefitting” we mean 100% of the money raised go directly to these two organizations.
+
+    How can that be you wonder?  The Kid’s Cup Golf Tournament is funded by the owners of our local [Express Employment Professionals](http://www.expresspros.com) which includes green fees, carts, gifts for the golfers, breakfast, and dinner. In addition, many local businesses step forward with generous donations and volunteers.
+  image: "/uploads/players_1.jpg"
+what_makes_us_unique:
+  text: |
+    For 22 years our golfers have been raising money for the kids.  Just to play, the golfers have to raise a minimum of $500.  Many of our golfers go above and beyond the required $500 and raise up to $6,000 a year.
+
+    When you are asked to donate to a Kid’s Cup golfer, keep in mind you are donating to fund a project or product that is NOT in the hospitals’ budget.  The entire purpose and mission of our tournament is to make an impact on these children’s stay at the hospital, not only for the patients but for their parents and siblings.  They are generally lengthy stays, and the money raised goes to make these stays more tolerable and comfortable.
+
+    Over the years, the projects at Mayo Clinic have included:
+
+    * Cast room pictures printer
+    * Marking milestones in the Neonatal NICU
+    * iPads
+    * Sibling support bags
+    * Shaken baby syndrome prevention program
+    * Equipment for PMR Med Peds
+    * Wild Encounters ZooMobile
+    * NICU stay-cations
+    * Fingerprint charms
+    * Sensory Music and Push Button Toys
+    * Simulation dolls
+    * Devices to ease blood draws
+
+    In 2011, a project called “Beads of Courage” was funded at Mayo Clinic.  Beads of Courage are handed to each child who has any type of procedure whether it is a needle stick all the way to a successful day of chemotherapy.  Just imagine how many beads these kids collect over their time or trips to the hospital.  With each visit, the strings of courage beads get longer, and each bead garners a smile on a hurting or ill child.
+
+    With so many children wanting to share, here is Erik Sutter's story of how just one project funded by Kid's Cup impacted him while being treated for cancer:
+
+    > While I was in the hospital, Kid's Cup helped by providing fun things to pass the time.  I spent a lot of time playing Mario Kart on the Nintendo Wii.  I also played fun games on a laptop computer.  My mom found the laptop very useful for setting up my Caring Bridge site to keep family and friends informed about my cancer.
+    >
+    > During my first 18 days in the hospital, getting out of bed and walking was important for my health.  A trip down the hall to the playroom was something to look forward to.  I was impressed with all the activities the playroom had to offer.
+    >
+    > Throughout the three years and two months of treatment, I was able to collect 295 colorful glass beads known as Beads of Courage.  Each bead represents a procedure or situation I had to go through.  I was proud to wear them during clinic visits so other people could see what I had accomplished!
+    >
+    > The Kids Cup tournament is a fun way for adults and children to raise important funds so that kids like me can endure long days and long nights in the hospital.
+    >
+    > Thank you very much Kid's Cup!
+    >
+    > *- Erik Sutter*
+
+    In 2012, Kid's Cup made the change from supporting Gillette Children's Hospital to Olmsted Medical Center so that all the funds could be used locally.  Knowing how important the OMC BirthCenter is to the communities in Southeastern Minnesota, Kid's Cup made the first major financial pledge of $150,000 to the Capital Campaign to construct the Women's Health Pavilion on the OMC Hospital campus.  Nearly 40% of all births in Olmsted County happen in the OMC BirthCenter.  Kid's Cup is recognized for its generous support outside of the OMC BirthCenter Nursery.
+  image: "/uploads/golf_cart_1.jpg"
+whats_new:
+  text: |
+    The Kid's Cup has followed the same format for 21 years, but this year we've decided to switch things up. Instead of 36 holes played at two different golf courses, the tournament will be held at [Somerby Golf Club](http://www.somerby.com), South East Minnesota's premiere championship golf club, on May 21, 2018. The tournament will be 18 holes, leaving more time for our golfers to enjoy dinner, along with our silent auction.
+
+    ##### Schedule of Events:
+
+    * 9:30 AM - Registration and hot breakfast buffet
+    * 11:00 AM - Shotgun start
+    * 3:30 PM - Social hour and silent auction
+    * 4:30 PM - Dinner (chef-carved prime rib) and awards
+  image: "/uploads/somerbys_course.jpg"
+sign_up:
+  for_golfers:
+    text: |
+      Registration is easy. Simply create your fund easy page [here](https://secure.ministrysync.com/ministrysync/event/website/home/?e=10087). Once registered, you can direct potential donors to your site and share the link on Facebook and Twitter.  If you receive donations as cash or check, simply record the donations on your Fund Easy page, and bring the cash and checks to Somerby the day of the event.
+    button_link: https://secure.ministrysync.com/ministrysync/event/website/home/?e=10087
+    button_text: I want to golf!
+  for_sponsors:
+    text: |
+      We understand that not everyone is a golfer. However, there are sponsorship opportunities available, along with volunteer opportunities. For more information contact Jeff Jensen ([jeff.jensen@expresspros.com](mailto:jeff.jensen@expresspros.com?subject=Kid's Cup Rochester Sponsorship)) or Marge Kelley ([marge.kelley@expresspros.com](mailto:marge.kelley@expresspros.com?subject=Kid's Cup Rochester Sponsorship)).
+    button_link: mailto:marge.kelley@expresspros.com?subject=Kid's Cup Rochester Sponsorship
+    button_text: I want to sponsor!
+sponsors:
+- image: "/uploads/express_logo.png"
+  name: Express Employment Professionals
+  link: https://www.expresspros.com/
+- image: "/uploads/first_alliance_logo.jpg"
+  name: First Alliance Credit Union
+  link: https://firstalliancecu.com
