@@ -3,7 +3,7 @@ layout: default
 ---
 
 <section id="intro">
-    <div class="background-image" style="background-image: url('uploads/golf_course.jpg');"></div>
+    <div class="background-image" style="background-image: url('{{ site.intro.image }}');"></div>
     <section id="intro-content">
         <img class="icon" src="assets/images/kids_cup_logo.png">
         <h1 class="title">Kid's Cup Rochester</h1>
@@ -38,7 +38,7 @@ layout: default
     <div class="container">
         <div class="item flex-100">
             <h3 class="is-center-aligned is-section-heading">Who We Are</h3>
-            <img class="is-floated-right flex-50" src="{{ site.baseurl }}{{ site.who_we_are.image }}" />
+            <img class="is-floated-right flex-50" src="{{ site.who_we_are.image }}" />
             {{ site.who_we_are.text | markdownify }}
         </div>
     </div>
@@ -47,7 +47,7 @@ layout: default
     <div class="container">
         <div class="item flex-100">
             <h3 class="is-center-aligned is-section-heading">What Makes Us Unique</h3>
-            <img class="is-floated-right flex-50" src="{{ site.baseurl }}{{ site.what_makes_us_unique.image }}" />
+            <img class="is-floated-right flex-50" src="{{ site.what_makes_us_unique.image }}" />
             {{ site. what_makes_us_unique.text | markdownify }}
         </div>
     </div>
@@ -56,7 +56,7 @@ layout: default
     <div class="container">
         <div class="item flex-100">
             <h3 class="is-center-aligned is-section-heading">What's New for 2018</h3>
-            <img class="is-floated-right flex-50" src="{{ site.baseurl }}{{ site.whats_new.image }}" />
+            <img class="is-floated-right flex-50" src="{{ site.whats_new.image }}" />
             {{ site.whats_new.text | markdownify }}
         </div>
     </div>
@@ -69,7 +69,7 @@ layout: default
         {% for sponsor in site.sponsors %}
             <div class="item flex-33 flex-50-tablet has-padding-two has-gutter has-centered-content has-white-background">
                 <a href="{{ sponsor.link}}" target="_blank" class="item-overlay-link"></a>
-                <img src="{{ site.baseurl }}{{ sponsor.image }}" class="has-no-margins" />
+                <img src="{{ sponsor.image }}" class="has-no-margins" />
             </div>
         {% endfor %}
     </div>

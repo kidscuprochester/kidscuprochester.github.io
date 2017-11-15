@@ -12,6 +12,8 @@ url: https://kidscuprochester.github.io
 markdown: kramdown
 plugins:
 - jekyll-feed
+intro:
+  image: "/uploads/golf_course.jpg"
 next_event:
   date: 2018-05-08 00:00:00.000000000 Z
   time: 9:30 - 6:00 PM
