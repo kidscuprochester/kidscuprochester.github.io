@@ -2,6 +2,9 @@
 title: Kid's Cup of Rochester
 timezone: UTC
 collections:
+  posts:
+    title: Posts
+    output: true
   uploads:
     title: Uploads
     output: true
@@ -81,13 +84,23 @@ whats_new:
   image: "/uploads/somerbys_course.jpg"
 sign_up:
   for_golfers:
-    text: |
-      Registration is easy. Simply create your fund easy page [here](https://secure.ministrysync.com/ministrysync/event/website/home/?e=10087). Once registered, you can direct potential donors to your site and share the link on Facebook and Twitter.  If you receive donations as cash or check, simply record the donations on your Fund Easy page, and bring the cash and checks to Somerby the day of the event.
+    text: 'Registration is easy. Simply create your fund easy page [here](https://secure.ministrysync.com/ministrysync/event/website/home/?e=10087).
+      Once registered, you can direct potential donors to your site and share the
+      link on Facebook and Twitter.  If you receive donations as cash or check, simply
+      record the donations on your Fund Easy page, and bring the cash and checks to
+      Somerby the day of the event.
+
+'
     button_link: https://secure.ministrysync.com/ministrysync/event/website/home/?e=10087
     button_text: I want to golf!
   for_sponsors:
-    text: |
-      We understand that not everyone is a golfer. However, there are sponsorship opportunities available, along with volunteer opportunities. For more information contact Jeff Jensen ([jeff.jensen@expresspros.com](mailto:jeff.jensen@expresspros.com?subject=Kid's Cup Rochester Sponsorship)) or Marge Kelley ([marge.kelley@expresspros.com](mailto:marge.kelley@expresspros.com?subject=Kid's Cup Rochester Sponsorship)).
+    text: 'We understand that not everyone is a golfer. However, there are sponsorship
+      opportunities available, along with volunteer opportunities. For more information
+      contact Jeff Jensen ([jeff.jensen@expresspros.com](mailto:jeff.jensen@expresspros.com?subject=Kid''s
+      Cup Rochester Sponsorship)) or Marge Kelley ([marge.kelley@expresspros.com](mailto:marge.kelley@expresspros.com?subject=Kid''s
+      Cup Rochester Sponsorship)).
+
+'
     button_link: mailto:marge.kelley@expresspros.com?subject=Kid's Cup Rochester Sponsorship
     button_text: I want to sponsor!
 sponsors:
