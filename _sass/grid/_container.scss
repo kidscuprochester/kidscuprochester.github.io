@@ -10,6 +10,9 @@
     @include flex-direction(row); 
     @include flex-wrap(wrap);       
     @include justify-content(flex-start);
+    &.has-centered-items {
+        @include justify-content(center);
+    }
 }
 .column-container {
     @extend .container;

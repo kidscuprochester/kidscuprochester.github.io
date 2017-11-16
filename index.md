@@ -62,7 +62,7 @@ layout: default
     </div>
 </section>
 <section id="sponsors" class="has-light-gray-background">
-    <div class="container">
+    <div class="container has-centered-items">
         <div class="item flex-100">
             <h3 class="is-center-aligned is-section-heading">Sponsors</h3>
         </div>

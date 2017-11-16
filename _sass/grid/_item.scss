@@ -92,6 +92,12 @@
             max-width: 25%;
             padding: 0 2rem 2rem 2rem;
         }
+        &.is-floated-right {
+            padding-right: 0;
+        }
+        &.is-floated-left {
+            padding-left: 0;
+        }
     }
 }
 
