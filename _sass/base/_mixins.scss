@@ -175,7 +175,7 @@
 	flex-basis: $value;
 }
 
-@mixin flex($fg: 1, $fs: null, $fb: null) {
+@mixin flex($fg: 0, $fs: 1, $fb: auto) {
     $fg-boxflex: $fg;
 
 	@if type-of($fg) == 'list' {

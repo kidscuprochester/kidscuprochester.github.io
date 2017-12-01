@@ -38,7 +38,7 @@ layout: default
     <div class="container">
         <div class="item flex-100">
             <h3 class="is-center-aligned is-section-heading">Who We Are</h3>
-            <img class="is-floated-right flex-50" src="{{ site.who_we_are.image }}" />
+            <img class="is-floated-right" src="{{ site.who_we_are.image }}" />
             {{ site.who_we_are.text | markdownify }}
         </div>
     </div>
@@ -47,7 +47,7 @@ layout: default
     <div class="container">
         <div class="item flex-100">
             <h3 class="is-center-aligned is-section-heading">What Makes Us Unique</h3>
-            <img class="is-floated-right flex-50" src="{{ site.what_makes_us_unique.image }}" />
+            <img class="is-floated-right" src="{{ site.what_makes_us_unique.image }}" />
             {{ site. what_makes_us_unique.text | markdownify }}
         </div>
     </div>
@@ -56,7 +56,7 @@ layout: default
     <div class="container">
         <div class="item flex-100">
             <h3 class="is-center-aligned is-section-heading">What's New for 2018</h3>
-            <img class="is-floated-right flex-50" src="{{ site.whats_new.image }}" />
+            <img class="is-floated-right" src="{{ site.whats_new.image }}" />
             {{ site.whats_new.text | markdownify }}
         </div>
     </div>
