@@ -68,38 +68,13 @@
         padding: 0;
         margin: 0;
         box-sizing: border-box;
-        &.flex-100 {
-            width: 100%;
-            max-width: 100%;
-            padding: 0 2rem 2rem 2rem;
-        }
-        &.flex-75 {
-            width: 75%;
-            max-width: 75%;
-            padding: 0 2rem 2rem 2rem;
-        }
-        &.flex-50 {
-            width: 50%;
-            max-width: 50%;
-            padding: 0 2rem 2rem 2rem;
-        }
-        &.flex-33 {
-            width: 33%;
-            max-width: 33%;
-            padding: 0 2rem 2rem 2rem;
-        }
-        &.flex-25 {
-            width: 25%;
-            max-width: 25%;
-            padding: 0 2rem 2rem 2rem;
-        }
         &.is-floated-right {
             width: 50%;
-            padding: 0 0 2rem 2rem;
+            padding: 0 0 3rem 2rem;
         }
         &.is-floated-left {
             width: 50%;
-            padding: 0 2rem 2rem 0;
+            padding: 0 2rem 3rem 0;
         }
     }
 }
@@ -118,11 +93,9 @@
                 }
             }
             img {
-                &.flex-75, &.flex-50, &.flex-33, &.flex-25 {
-                    width: 100%;
-                    max-width: 100%;
-                    padding: 0 0 2rem 0;
-                }
+                width: 100%;
+                max-width: 100%;
+                padding: 0 0 2rem 0;
             }
         }
     }
@@ -162,26 +135,9 @@
                 }
             }
             img {
-                &.flex-75, &.flex-50, &.flex-33, &.flex-25 {
-                    width: 100%;
-                    max-width: 100%;
-                    padding: 0 0 2rem 0;
-                }
-                &.flex-50-tablet {
-                    width: 50%;
-                    max-width: 50%;
-                    padding: 0 2rem 2rem 2rem;
-                }
-                &.flex-33-tablet {
-                    width: 33.33%;
-                    max-width: 33.33%;
-                    padding: 0 2rem 2rem 2rem;
-                }
-                &.flex-25-tablet {
-                    width: 25%;
-                    max-width: 25%;
-                    padding: 0 2rem 2rem 2rem;
-                }
+                width: 100%;
+                max-width: 100%;
+                padding: 0 0 2rem 0;
             }
         }
     }

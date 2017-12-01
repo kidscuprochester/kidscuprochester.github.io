@@ -47,8 +47,22 @@ layout: default
     <div class="container">
         <div class="item flex-100">
             <h3 class="is-center-aligned is-section-heading">What Makes Us Unique</h3>
-            <img class="is-floated-right" src="{{ site.what_makes_us_unique.image }}" />
-            {{ site. what_makes_us_unique.text | markdownify }}
+            {% if site.what_makes_us_unique.top_image != '' %}
+                <img class="is-floated-left" src="{{ site.what_makes_us_unique.top_image }}" />
+            {% endif %}
+            {{ site. what_makes_us_unique.top_text | markdownify }}
+        </div>
+        <div class="item flex-100">
+            {% if site.what_makes_us_unique.middle_image != '' %}
+                <img class="is-floated-right" src="{{ site.what_makes_us_unique.middle_image }}" />
+            {% endif %}
+            {{ site. what_makes_us_unique.middle_text | markdownify }}
+        </div>
+        <div class="item flex-100">
+            {% if site.what_makes_us_unique.bottom_image != '' %}
+                <img class="is-floated-left" src="{{ site.what_makes_us_unique.bottom_image }}" />
+            {% endif %}
+            {{ site. what_makes_us_unique.bottom_text | markdownify }}
         </div>
     </div>
 </section>
