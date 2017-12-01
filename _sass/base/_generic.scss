@@ -13,6 +13,7 @@ body {
         @include flex(1);
         @include flexbox;
         @include flex-direction(column);
+        overflow: hidden;
         section {
             overflow: hidden;
             &.is-fill {
