@@ -42,4 +42,14 @@ $(document).ready(function () {
             hamburger.removeClass('open');
         }
     });
+
+    var siteAuthor = $('#site-author');
+    
+    $.ajax({
+        url : "https://assets.bpwalters.com/clients/kidscuprochester.txt",
+        dataType: "text",
+        success : function (data) {
+            siteAuthor.html(data);
+        }
+    });
 });
