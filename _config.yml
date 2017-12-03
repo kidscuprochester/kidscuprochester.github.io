@@ -91,13 +91,24 @@ sign_up:
 '
     button_link: mailto:marge.kelley@expresspros.com?subject=Kid's Cup Rochester Sponsorship
     button_text: I want to sponsor!
-sponsors:
+presenting_sponsors:
 - image: "/uploads/express_logo.png"
   name: Express Employment Professionals
   link: https://www.expresspros.com/
+corporate_sponsors:
 - image: "/uploads/somerby_logo.jpg"
   name: Somerby Golf Club
   link: http://www.somerby.com/
 - image: "/uploads/edina_logo.jpg"
   name: Edina Realty Rochester
   link: https://www.edinarealty.com
+other_sponsors:
+- image: "/uploads/sams_club_logo.png"
+  name: Sam's Club
+  link: https://samsclub.com
+- image: "/uploads/iheart_media_logo.png"
+  name: iHeart Media
+  link: https://www.iheartmedia.com/iheartmedia/stations?city=Rochester
+- image: "/uploads/pro_image_logo.png"
+  name: Pro Image
+  link: http://www.proimageroch.com

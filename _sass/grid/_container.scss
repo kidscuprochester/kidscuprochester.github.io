@@ -13,6 +13,9 @@
     &.has-centered-items {
         @include justify-content(center);
     }
+    &.is-full-width {
+        width: 100%;
+    }
 }
 .column-container {
     @extend .container;
