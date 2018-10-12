@@ -33,11 +33,16 @@ what_makes_us_unique:
   top_text: "Golfers are asked to raise a minimum of $500 in pledges. Several golfers
     raised more than $2,000! In 2018, with 100 golfers, Kid's Cup Golf Tournament
     raised more than $77,000. \n\n"
-  top_image: "/uploads/golf_cart_1.jpg"
   middle_image: "/uploads/mayo_check.jpg"
   bottom_image: 
-whats_new:
+2019 Schedule:
   image: "/uploads/somerbys_course.jpg"
+  Key: |-
+    9:30 a.m.     Registration and hot breakfast buffet
+    11:00 a.m.   Shotgun start
+    3:30 p.m.     Social hour and silent auction
+    5:00 p.m.     Dinner (chef-carved prime rib)
+                            Live Auction and Awards
 sign_up:
   for_golfers:
     text: 'Registration is easy. Simply create your fund easy page [here](https://secure.ministrysync.com/ministrysync/event/website/home/?e=10088).
