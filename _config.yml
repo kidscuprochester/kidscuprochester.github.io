@@ -23,13 +23,14 @@ next_event:
   location: Somerby Golf Club
   directions_url: https://www.google.com/maps/dir//''/@44.0477542,-92.6697751,13z/data=!4m8!4m7!1m0!1m5!1m1!1s0x87f742b8acef5c79:0xe0c57d3c2c3b35dd!2m2!1d-92.6347557!2d44.0476979
 who_we_are:
-  text: "Now in its 23rd year, the Kids Cup Golf Tournament has raised over $1.5 million
-    benefitting children at Mayo Clinic Children's Center and Prenatal and Infant
-    Care at Olmsted Medical Center. \n\nThe entire cost of the Kid's Cup Golf Tournament
-    is underwritten by the owner's of the local Express Employment Professionals and
-    our generous sponsors.\n\nGolfers are asked to raise a minimum of $500 in pledges.
-    Several golfers raised more than $2,000! In 2018, with 100 golfers, Kid's Cup
-    Golf Tournament raised more than $77,000. \n\n"
+  text: |-
+    Hello! Welcome to the Kids Cup website! We are so glad you came to visit. Please excuse our mess. The site is currently under construction in preparation for Kids Cup 2019. Check back again soon. Thanks for your patience.
+
+    Now in its 23rd year, the Kids Cup Golf Tournament has raised over $1.5 million benefitting children at Mayo Clinic Children's Center and Prenatal and Infant Care at Olmsted Medical Center.
+
+    The entire cost of the Kid's Cup Golf Tournament is underwritten by the owner's of the local Express Employment Professionals and our generous sponsors.
+
+    Golfers are asked to raise a minimum of $500 in pledges. Several golfers raised more than $2,000! In 2018, with 100 golfers, Kid's Cup Golf Tournament raised more than $77,000.
   image: "/uploads/players_1.jpg"
 sign_up:
   for_golfers:
