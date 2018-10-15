@@ -23,10 +23,11 @@ next_event:
   location: Somerby Golf Club
   directions_url: https://www.google.com/maps/dir//''/@44.0477542,-92.6697751,13z/data=!4m8!4m7!1m0!1m5!1m1!1s0x87f742b8acef5c79:0xe0c57d3c2c3b35dd!2m2!1d-92.6347557!2d44.0476979
 who_we_are:
-  text: |
-    Thanks to the vision of Mark and Sheryl Tasler, what began in 1997 as the Miracle Marathon evolved into the Kid’s Cup Golf Tournament.
-    In its 22nd year, the tournament has raised over $1.5 million benefitting children for more than two decades.  Mayo Clinic Children’s Center and Gillette Children’s Hospital were the original recipients.
-    Beginning in 2012 all Kid’s Cup donations remain local benefitting Mayo Clinic Children’s Center and Prenatal and Infant Care at Olmsted Medical Center.  100% of the money raised goes directly to these two organizations.
+  text: |-
+    Now in its 23nd year, the Kid’s Cup Golf Tournament
+    has raised over $1.5 million benefitting children at
+    Mayo Clinic Children’s Center and Prenatal and Infant Care at Olmsted Medical Center.
+    Golfers are asked to raise a minimum of $500 in pledges. Several golfers raised more than $2,000! In 2018, with 100 golfers, Kid’s Cup Golf Tournament raised more than $77,000. 100% of the pledges collected goes directly to fund programs at Mayo Clinic Children’s CenterandPrenatal and Infant Care at Olmsted Medical Center.
   image: "/uploads/players_1.jpg"
 what_makes_us_unique:
   top_text: |
@@ -54,13 +55,13 @@ what_makes_us_unique:
   bottom_image: 
 whats_new:
   text: |
-    The Kid's Cup has followed the same format for 21 years, but this year we've decided to switch things up. Instead of 36 holes played at two different golf courses, the tournament will be held at [Somerby Golf Club](http://www.somerby.com), South East Minnesota's premiere championship golf club, on May 21, 2018
+    The Kid's Cup has followed the same format for 21 years, but this year we've decided to switch things up. Instead of 36 holes played at two different golf courses, the tournament will be held at [Somerby Golf Club](http://www.somerby.com), South East Minnesota's premiere championship golf club, on May 20, 2019
     The tournament will be 18 holes, leaving more time for our golfers to enjoy dinner, along with our silent auction.
     ##### Schedule of Events:
     * 9:30 AM - Registration and hot breakfast buffet
     * 11:00 AM - Shotgun start
     * 3:30 PM - Social hour and silent auction
-    * 4:30 PM - Dinner (chef-carved prime rib) and awards
+    * 5:00PM - Dinner (chef-carved prime rib) and awards
   image: "/uploads/somerbys_course.jpg"
 sign_up:
   for_golfers:
