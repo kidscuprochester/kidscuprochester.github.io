@@ -65,12 +65,12 @@ corporate_sponsors:
 - image: "/uploads/somerby_logo.jpg"
   name: Somerby Golf Club
   link: http://www.somerby.com/
-- image: "/uploads/T%20Solano.JPG"
+- name: Trina Solano, Realtor
+  link: https://www.edinarealty.com/trina-solano-realtor#/
+  image: "/uploads/T%20Solano.JPG"
+- image: "/uploads/edina_logo.jpg"
   name: Edina Realty Rochester
   link: https://www.edinarealty.com
-- image: "/uploads/Trina%20Solano-0bcf57.JPG"
-  name: Trina Solano, Realtor
-  link: https://www.edinarealty.com/trina-solano-realtor#/
 other_sponsors:
 - image: "/uploads/sams_club_logo.png"
   name: Sam's Club
