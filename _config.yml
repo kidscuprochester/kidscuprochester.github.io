@@ -64,16 +64,19 @@ presenting_sponsors:
 - image: "/uploads/express_logo.png"
   name: Express Employment Professionals
   link: https://www.expresspros.com/
+- image: "/uploads/EWP_Cobrand-f4e522.png"
+  name: Echelon Wealth Partners
+  link: https://www.ameripriseadvisors.com/team/echelon-wealth-partners
 corporate_sponsors:
+- image: "/uploads/EWP_Cobrand.png"
+  name: Echelon Wealth Partners
+  link: https://www.ameripriseadvisors.com/team/echelon-wealth-partners
 - image: "/uploads/somerby_logo.jpg"
   name: Somerby Golf Club
   link: http://www.somerby.com/
 - image: "/uploads/trina%20solano-3232f5.jpg"
   name: Trina Solano, Realtor
   link: https://www.edinarealty.com/trina-solano-realtor#/
-- image: "/uploads/EWP_Cobrand.png"
-  name: Echelon Wealth Partners
-  link: https://www.ameripriseadvisors.com/team/echelon-wealth-partners
 - image: "/uploads/First-Security-Bank-Byron.png"
   name: First Security Bank Byron
   link: https://www.fsbbyron.com/
