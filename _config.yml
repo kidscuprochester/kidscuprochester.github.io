@@ -78,9 +78,6 @@ corporate_sponsors:
   name: Sam's Club
   link: https://samsclub.com
 other_sponsors:
-- image: "/uploads/sams_club_logo.png"
-  name: Sam's Club
-  link: https://samsclub.com
 - image: "/uploads/iheart_media_logo.png"
   name: iHeart Media
   link: https://www.iheartmedia.com/iheartmedia/stations?city=Rochester
@@ -105,4 +102,7 @@ other_sponsors:
 - image: "/uploads/Capture.JPG"
   name: Johnson Printing
   link: http://www.johnson-printing.com/
+- image: "/uploads/First-Security-Bank-Byron-d05fe7.png"
+  name: First Security Bank Byron
+  link: https://www.fsbbyron.com/
 Field name: 
