@@ -19,16 +19,16 @@ intro:
   image: "/uploads/Somerby.jpg"
 quick_actions:
   want_to_golf:
-    button_text: "I want to golf"
-    button_link: 'https://secure.ministrysync.com/ministrysync/event/?e=19294'
+    button_text: I want to golf
+    button_link: https://secure.ministrysync.com/ministrysync/event/?e=19294
   want_to_donate:
-    button_text: "I want to donate"
-    button_link: 'https://secure.ministrysync.com/ministrysync/event/?e=19294'
+    button_text: I want to donate
+    button_link: https://secure.ministrysync.com/ministrysync/event/?e=19294
   want_to_sponsor:
-    button_text: "I want to sponsor"
+    button_text: I want to sponsor
     button_link: mailto:marge.kelley@expresspros.com?subject=Kid's Cup Rochester Sponsorship&body=I%20would%20like%20to%20be%20a%20Kid's%20Cup%20sponsor!
   want_to_purchase_tickets:
-    button_text: "I want to buy tickets"
+    button_text: I want to buy tickets
     button_link: mailto:marge.kelley@expresspros.com?subject=Kid's Cup Rochester Tickets&body=I%20would%20like%20to%20purchase%20tickets%20to%20the%20Kid's%20Cup%20Social%20Hour%20and%20Dinner!
 next_event:
   date: 2020-05-18 00:00:00.000000000 Z
@@ -63,7 +63,7 @@ sign_up:
       link on Facebook and Twitter.  If you receive donations as cash or check, simply
       record the donations on your Fund Easy page, and bring the cash and checks to
       Somerby the day of the event. '
-    button_link: 'https://secure.ministrysync.com/ministrysync/event/?e=19294'
+    button_link: https://secure.ministrysync.com/ministrysync/event/?e=19294
     button_text: I want to give!
   for_sponsors:
     text: 'We understand that not everyone is a golfer. However, there are sponsorship
