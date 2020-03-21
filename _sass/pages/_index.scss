@@ -33,19 +33,6 @@
             margin: 0 0 1rem;
             color: $white;
         }
-        .is-button {
-            height: auto;
-            min-height: 100%;
-            padding: 1.5rem 1rem;
-            @include flexbox;
-            @include flex-direction(column);
-            @include align-items(center);
-            @include justify-content(center);
-    
-            > .is-icon {
-                margin: 0 0 1rem 0;
-            }
-        }
     }
 }
 #quick-actions {

@@ -7,7 +7,10 @@ layout: default
     <div class="background-image" style="background-image: url('{{ site.intro.image }}');"></div>
     <section id="intro-content"> <img class="icon" src="assets/images/kids_cup_logo.png">
         <h1 class="title">Kid's Cup Rochester</h1>
-        <div class="container">
+    </section>
+</section>
+<section id="quick-actions">
+    <div class="container">
         <div class="item flex-25 flex-50-tablet is-center-aligned has-gutter">
             <a class="is-button" href="{{ site.quick_actions.want_to_golf.button_link }}" target="_blank">
                 <span class="fas fa-golf-club fa-lg is-icon"></span>
@@ -33,10 +36,6 @@ layout: default
             </a>
         </div>
     </div>
-    </section>
-</section>
-<section id="quick-actions">
-    
 </section>
 <section id="event-details" class="has-light-gray-background">
     <div class="container">
