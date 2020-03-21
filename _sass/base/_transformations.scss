@@ -81,6 +81,7 @@
     background-color: $red;
     color: $white;
     text-decoration: none;
+    box-sizing: border-box;
     &:hover {
         background-color: $light-red;
         text-decoration: none;

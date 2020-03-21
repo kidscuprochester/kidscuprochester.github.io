@@ -17,6 +17,19 @@ plugins:
 - jekyll-feed
 intro:
   image: "/uploads/Somerby.jpg"
+quick_actions:
+  want_to_golf:
+    button_text: "I want to golf"
+    button_link: 'https://secure.ministrysync.com/ministrysync/event/?e=19294'
+  want_to_donate:
+    button_text: "I want to donate"
+    button_link: 'https://secure.ministrysync.com/ministrysync/event/?e=19294'
+  want_to_sponsor:
+    button_text: "I want to sponsor"
+    button_link: mailto:marge.kelley@expresspros.com?subject=Kid's Cup Rochester Sponsorship&body=I%20would%20like%20to%20be%20a%20Kid's%20Cup%20sponsor!
+  want_to_purchase_tickets:
+    button_text: "I want to buy tickets"
+    button_link: mailto:marge.kelley@expresspros.com?subject=Kid's Cup Rochester Tickets&body=I%20would%20like%20to%20purchase%20tickets%20to%20the%20Kid's%20Cup%20Social%20Hour%20and%20Dinner!
 next_event:
   date: 2020-05-18 00:00:00.000000000 Z
   time: 9:30 - 7:00 PM
@@ -50,7 +63,7 @@ sign_up:
       link on Facebook and Twitter.  If you receive donations as cash or check, simply
       record the donations on your Fund Easy page, and bring the cash and checks to
       Somerby the day of the event. '
-    button_link: 'https://secure.ministrysync.com/ministrysync/event/?e=19294      '
+    button_link: 'https://secure.ministrysync.com/ministrysync/event/?e=19294'
     button_text: I want to give!
   for_sponsors:
     text: 'We understand that not everyone is a golfer. However, there are sponsorship
@@ -74,25 +87,26 @@ corporate_sponsors:
 - image: "/uploads/Trina%20logo%202020.JPG"
   name: Trina Solano, Realtor
   link: https://www.edinarealty.com/trina-solano-realtor#/
-- image: "/uploads/SAMS.png"
+- image: "/uploads/sams_club_logo.png"
   name: Sam's Club
   link: https://samsclub.com
 other_sponsors:
 - image: "/uploads/First-Security-Bank-Byron-d05fe7.png"
   name: First Security Bank Byron
   link: https://www.fsbbyron.com/
-- image: "/uploads/pro_image_logo.png"
-  name: Pro Image
-  link: http://www.proimageroch.com
+- image: "/uploads/Morris%20Concrete.png"
+  name: Morris Concrete, Inc.
+  link: https://www.facebook.com/pages/Morris-Concrete/164999316859681
 - image: "/uploads/Ames%20Construction.JPG"
   name: Ames Construction
   link: https://www.amesconstruction.com/
 - image: "/uploads/Sola.png"
   name: Sola Salon Studios
   link: https://www.solasalonstudios.com
-- image: "/uploads/Morris%20Concrete.png"
-  name: Morris Concrete, Inc.
-  link: https://www.facebook.com/pages/Morris-Concrete/164999316859681
+marketing_sponsors:
+- image: "/uploads/pro_image_logo.png"
+  name: Pro Image
+  link: http://www.proimageroch.com
 - image: "/uploads/Capture.JPG"
   name: Johnson Printing
   link: http://www.johnson-printing.com/
@@ -102,4 +116,3 @@ other_sponsors:
 - image: "/uploads/KIMT%20Logo%20-%20HQ%20.png"
   name: KIMT News 3
   link: https://www.kimt.com
-Field name: 
