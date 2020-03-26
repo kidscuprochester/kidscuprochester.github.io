@@ -30,7 +30,7 @@ quick_actions:
   want_to_purchase_tickets:
     button_text: I want to buy tickets
     button_link: mailto:marge.kelley@expresspros.com?subject=Kid's Cup Rochester Tickets&body=I%20would%20like%20to%20purchase%20tickets%20to%20the%20Kid's%20Cup%20Social%20Hour%20and%20Dinner!
-date_and_time:
+date_&_time:
   date: 2021-05-24 09:30:00.000000000 Z
   time: 9:30 - 7:00 PM
   location: Somerby Golf Club
