@@ -31,37 +31,33 @@ quick_actions:
     button_text: I want to buy tickets
     button_link: mailto:marge.kelley@expresspros.com?subject=Kid's Cup Rochester Tickets&body=I%20would%20like%20to%20purchase%20tickets%20to%20the%20Kid's%20Cup%20Social%20Hour%20and%20Dinner!
 next_event:
-  date: 2021-05-24 09:30:00.000000000 Z
-  time: 9:30 - 7:00 PM
+  date: 2021-05-24 10:30:00.000000000 Z
+  time: 10:30 - 5:00 PM
   location: Somerby Golf Club
   directions_url: https://www.google.com/maps/dir//''/@44.0477542,-92.6697751,13z/data=!4m8!4m7!1m0!1m5!1m1!1s0x87f742b8acef5c79:0xe0c57d3c2c3b35dd!2m2!1d-92.6347557!2d44.0476979
 who_we_are:
   text: |-
-    The corona virus pandemic has affected every one of us in our community and it’s a public health crisis that requires collective action. With the uncertainty of the health crisis, we have made the decision to cancel the 2020 Kid’s Cup Golf Tournament.
+    The corona virus pandemic has affected every one of us in our community and it’s a public health crisis that requires collective action. With the uncertainty of the health crisis, we have made the decision to move forward with the 2021 Kid’s Cup Golf Tournament but in a slightly different format than prior years.
 
-    This was a difficult decision as the tournament has such a long-standing tradition and provides so much benefit to the community.
+    We are excited for the opportunity to come together as a community to raise money for so many kids and their families.  We will be following CDC, Mayo Clinic and Olmsted Medical Center Covid-19 protocols to continue to do our part to reduce exposure and keep our community safe.
 
-    We look forward to seeing you at the 25th Annual Kid’s Cup Golf Tournament May 24, 2021.
+    We look forward to seeing you at the 24th Annual Kid’s Cup Golf Tournament May 24, 2021.
 
     For questions, please contact Marge Kelley, marge.kelley@expresspros.com
   image: "/uploads/Team%20High%20Five-54a5d6.jpg"
 whats_new:
-  text: |
-    The tournament will be held at [Somerby Golf Club](http://www.somerby.com), South East Minnesota's premiere championship golf club, on May 24, 2021.
-    The tournament will be 18 holes, leaving more time for our golfers to enjoy dinner, along with our silent auction.
-    ##### Schedule of Events:
-    * 9:30 AM - Registration and hot breakfast buffet
-    * 11:00 AM - Shotgun start
-    * 3:30 PM - Social hour and silent auction~
-    * 5:00PM - Dinner (chef-carved prime rib) and awards
+  text: "The tournament will be held at [Somerby Golf Club](http://www.somerby.com),
+    South East Minnesota's premiere championship golf club, on May 24, 2021.\nThe
+    tournament will be 18 holes with lunch on the course.  More information will be
+    available soon regarding the auction and ways to stay involved.  \n\n"
   image: "/uploads/Somerby.jpg"
 sign_up:
   for_golfers:
     text: 'Registration is easy. Simply create your fund easy page [here](https://secure.ministrysync.com/ministrysync/event/website/home/?e=19294).
       Once registered, you can direct potential donors to your site and share the
       link on Facebook and Twitter.  If you receive donations as cash or check, simply
-      record the donations on your Fund Easy page, and bring the cash and checks to
-      Somerby the day of the event. '
+      record the donations on your Fund Easy page, and contact Marge.Kelley@Expresspros.com
+      for direction for cash or check collection prior to the event.   '
     button_link: https://secure.ministrysync.com/ministrysync/event/?e=19294
     button_text: I want to give!
   for_sponsors:
