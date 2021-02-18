@@ -16,7 +16,7 @@ markdown: kramdown
 plugins:
 - jekyll-feed
 intro:
-  image: "/uploads/It%E2%80%99s%20all%20about%20the%20kids%20flyer.header2.jpg"
+  image: "/uploads/Somerby.jpg"
 quick_actions:
   want_to_golf:
     button_text: I want to golf
