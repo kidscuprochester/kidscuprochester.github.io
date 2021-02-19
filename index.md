@@ -5,36 +5,36 @@ layout: default
 
 <section id="intro">
     <div class="background-image" style="background-image: url('{{ site.intro.image }}');"></div>
-    <section id="intro-content"> <img class="icon" src="assets/images/kids_cup_logo.png">
-        <h1 class="title">Kid's Cup Rochester</h1>
+    <section id="intro-content">
+        <img class="icon" src="assets/images/kids_cup_logo.png">
     </section>
 </section>
 <section id="quick-actions">
     <div class="container">
-        <div class="item flex-25 flex-50-tablet is-center-aligned has-gutter">
+        <div class="item flex-33 flex-100-tablet is-center-aligned has-gutter">
             <a class="is-button" href="{{ site.quick_actions.want_to_golf.button_link }}" target="_blank">
-                <span class="fas fa-golf-club fa-lg is-icon"></span>
+                <span class="fas fa-golf-ball fa-lg is-icon"></span>
                 {{ site.quick_actions.want_to_golf.button_text }}
             </a>
         </div>
-        <div class="item flex-25 flex-50-tablet is-center-aligned has-gutter">
+        <div class="item flex-33 flex-100-tablet is-center-aligned has-gutter">
             <a class="is-button" href="{{ site.quick_actions.want_to_donate.button_link }}" target="_blank">
                 <span class="fas fa-donate fa-lg is-icon"></span>
                 {{ site.quick_actions.want_to_donate.button_text }}
             </a>
         </div>
-        <div class="item flex-25 flex-50-tablet is-center-aligned has-gutter">
+        <div class="item flex-33 flex-100-tablet is-center-aligned has-gutter">
             <a class="is-button" href="{{ site.quick_actions.want_to_sponsor.button_link }}">
                 <span class="fas fa-handshake fa-lg is-icon"></span>
                 {{ site.quick_actions.want_to_sponsor.button_text }}
             </a>
         </div>
-        <div class="item flex-25 flex-50-tablet is-center-aligned has-gutter">
+        <!--<div class="item flex-25 flex-50-tablet is-center-aligned has-gutter">
             <a class="is-button" href="{{ site.quick_actions.want_to_purchase_tickets.button_link }}">
                 <span class="fas fa-ticket-alt fa-lg is-icon"></span>
                 {{ site.quick_actions.want_to_purchase_tickets.button_text }}
             </a>
-        </div>
+        </div>-->
     </div>
 </section>
 <section id="event-details" class="has-light-gray-background">
@@ -43,7 +43,7 @@ layout: default
             <h3 class="is-center-aligned is-section-heading">Next Event</h3>
         </div>
         <div class="item flex-50 is-center-aligned">
-            <span class="fa fa-calendar fa-2x is-icon"></span>
+            <span class="fa fa-calendar-alt fa-2x is-icon"></span>
             <h4>Date & Time</h4>
             <p>
                 {{ site.next_event.date | date: '%B %d, %Y' }}
@@ -52,7 +52,7 @@ layout: default
             </p>
         </div>
         <div class="item flex-50 is-center-aligned">
-            <span class="fa fa-map-marker fa-2x is-icon"></span>
+            <span class="fa fa-map-marker-alt fa-2x is-icon"></span>
             <h4>Location</h4>
             <p>
                 Somerby Golf Club
@@ -130,12 +130,13 @@ layout: default
         <div class="item flex-100">
             <h3 class="is-center-aligned is-section-heading">Sign Up</h3>
         </div>
-        <div class="item flex-50 has-gutter is-center-aligned"> <span class="fa fa-flag fa-2x is-icon"></span>
+        <div class="item flex-50 has-gutter is-center-aligned"> <span class="fas fa-golf-ball fa-2x is-icon"></span>
             <h4>For Golfers</h4> {{ site.sign_up.for_golfers.text | markdownify }} <p><a class="is-button"
                     href="{{ site.sign_up.for_golfers.button_link }}"
                     target="_blank">{{ site.sign_up.for_golfers.button_text }}</a></p>
         </div>
-        <div class="item flex-50 has-gutter is-center-aligned"> <span class="fa fa-handshake-o fa-2x is-icon"></span>
+        <div class="item flex-50 has-gutter is-center-aligned">
+            <span class="far fa-handshake fa-2x is-icon"></span>
             <h4>For Sponsors</h4> {{ site.sign_up.for_sponsors.text | markdownify }} <p><a class="is-button"
                     href="{{ site.sign_up.for_sponsors.button_link }}">{{ site.sign_up.for_sponsors.button_text }}</a>
             </p>
