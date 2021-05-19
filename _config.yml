@@ -32,7 +32,7 @@ quick_actions:
     button_link: mailto:marge.kelley@expresspros.com?subject=Kid's Cup Rochester Tickets&body=I%20would%20like%20to%20purchase%20tickets%20to%20the%20Kid's%20Cup%20Social%20Hour%20and%20Dinner!
 next_event:
   date: 2021-05-24 10:30:00.000000000 Z
-  time: 10:30 - 5:00 PM
+  time: 9:30-5:30
   location: Somerby Golf Club
   directions_url: https://www.google.com/maps/dir//''/@44.0477542,-92.6697751,13z/data=!4m8!4m7!1m0!1m5!1m1!1s0x87f742b8acef5c79:0xe0c57d3c2c3b35dd!2m2!1d-92.6347557!2d44.0476979
 who_we_are:
@@ -63,10 +63,17 @@ who_we_are:
     Kelley, marge.kelley@expresspros.com"
   image: "/uploads/Team%20High%20Five-54a5d6.jpg"
 whats_new:
-  text: "The tournament will be held at [Somerby Golf Club](http://www.somerby.com),
-    Southeast Minnesota's premiere championship golf club, on May 24, 2021.\nThe tournament
-    will be 18 holes with lunch on the course.  More information will be available
-    soon regarding the auction and ways to stay involved.  \n\n"
+  text: |+
+    The tournament will be held at [Somerby Golf Club](http://www.somerby.com), Southeast Minnesota's premiere championship golf club, on May 24, 2021.
+    **Schedule for the day**
+    Registration 9:30-10:30
+    Announcements 10:45
+    Shotgun start 11:00
+    Social with Bar-b-que 4:00-5:30
+
+    The tournament will be 18 holes with lunch on the course.  Online auction is now live   https://givergy.us/kidscuprochester/
+
+
   image: "/uploads/Somerby.jpg"
 sign_up:
   for_golfers:
