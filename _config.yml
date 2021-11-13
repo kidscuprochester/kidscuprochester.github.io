@@ -26,7 +26,7 @@ quick_actions:
     button_link: https://secure.ministrysync.com/ministrysync/event/?e=19294
   want_to_sponsor:
     button_text: I want to sponsor
-    button_link: mailto:marge.kelley@expresspros.com?subject=Kid's Cup Rochester Sponsorship&body=I%20would%20like%20to%20be%20a%20Kid's%20Cup%20sponsor!
+    button_link: mailto:sarah.kvanli@expresspros.com?subject=Kid's Cup Rochester Sponsorship&body=I%20would%20like%20to%20be%20a%20Kid's%20Cup%20sponsor!
   want_to_purchase_tickets:
     button_text: I want to buy tickets
     button_link: mailto:marge.kelley@expresspros.com?subject=Kid's Cup Rochester Tickets&body=I%20would%20like%20to%20purchase%20tickets%20to%20the%20Kid's%20Cup%20Social%20Hour%20and%20Dinner!
@@ -63,18 +63,11 @@ who_we_are:
     please contact Sarah Kvanli, sarah.kvanli@expresspros.com"
   image: "/uploads/Team%20High%20Five-54a5d6.jpg"
 whats_new:
-  text: |+
-    The tournament will be held at [Somerby Golf Club](http://www.somerby.com), Southeast Minnesota's premiere championship golf club, on May 23, 2022.
-
-    **Schedule for the day**
-    Registration 8:00-9:30
-    Announcements 9:45
-    Shotgun start 10:00
-    Social with Bar-b-que 4:00-5:30
-
-    The tournament will be 18 holes with lunch on the course.  Online auction is now live   (https://www.givergy.us/kidscuprochester/)
-
-
+  text: "The tournament will be held at [Somerby Golf Club](http://www.somerby.com),
+    Southeast Minnesota's premiere championship golf club, on May 23, 2022.\n\n**Schedule
+    for the day**\nRegistration and Breakfast 8:00-9:30\nAnnouncements 9:45\nShotgun
+    start 10:00\nSocial at 4:00 with program to follow\n\nThe tournament will be 18
+    holes with a cart.  \n\n\n"
   image: "/uploads/Somerby.jpg"
 sign_up:
   for_golfers:
@@ -88,10 +81,9 @@ sign_up:
   for_sponsors:
     text: 'We understand that not everyone is a golfer. However, there are sponsorship
       opportunities available, along with volunteer opportunities. For more information
-      contact Jeff Jensen ([jeff.jensen@expresspros.com](mailto:jeff.jensen@expresspros.com?subject=Kid''s
-      Cup Rochester Sponsorship)) or Marge Kelley ([marge.kelley@expresspros.com](mailto:marge.kelley@expresspros.com?subject=Kid''s
-      Cup Rochester Sponsorship)). '
-    button_link: mailto:marge.kelley@expresspros.com?subject=Kid's Cup Rochester Sponsorship
+      contact Sarah Kvanli ([sarah.kvanli@expresspros.com]subject=Kid''s Cup Rochester
+      Sponsorship)). '
+    button_link: mailto:sarah.kvanli@expresspros.com?subject=Kid's Cup Rochester Sponsorship
     button_text: I want to sponsor!
 presenting_sponsors:
 - image: "/uploads/express_logo.png"
