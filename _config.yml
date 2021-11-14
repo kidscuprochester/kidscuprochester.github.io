@@ -65,9 +65,9 @@ who_we_are:
 whats_new:
   text: "The tournament will be held at [Somerby Golf Club](http://www.somerby.com),
     Southeast Minnesota's premiere championship golf club, on May 23, 2022.\n\n**Schedule
-    for the day**\nRegistration and Breakfast 8:00-9:30\nAnnouncements 9:45\nShotgun
-    start 10:00\nSocial at 4:00 with program to follow\n\nThe tournament will be 18
-    holes with a cart.  \n\n\n"
+    for the day**\nRegistration and Breakfast 8:00-9:30,\nAnnouncements 9:45,\nShotgun
+    start 10:00,\nSocial at 4:00 with program to follow\n\nThe tournament will be
+    18 holes with a cart.  \n\n\n"
   image: "/uploads/Somerby.jpg"
 sign_up:
   for_golfers:
