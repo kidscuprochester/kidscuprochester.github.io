@@ -79,9 +79,9 @@ sign_up:
     button_link: https://secure.ministrysync.com/ministrysync/event/?e=19294
     button_text: I want to give!
   for_sponsors:
-    text: 'We understand that not everyone is a golfer. However, there are sponsorship
+    text: "We understand that not everyone is a golfer. However, there are sponsorship
       opportunities available, along with volunteer opportunities. For more information
-      contact Sarah Kvanli. '
+      contact Sarah Kvanli. \n\n\n\n"
     button_link: mailto:sarah.kvanli@expresspros.com?subject=Kid's Cup Rochester Sponsorship
     button_text: I want to sponsor!
 presenting_sponsors:
