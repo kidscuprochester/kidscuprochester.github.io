@@ -16,7 +16,7 @@ markdown: kramdown
 plugins:
 - jekyll-feed
 intro:
-  image: "/uploads/Untitled%20design-3.png"
+  image: "/uploads/May%2023,%202022.png"
 quick_actions:
   want_to_golf:
     button_text: I want to golf
