@@ -16,7 +16,7 @@ markdown: kramdown
 plugins:
 - jekyll-feed
 intro:
-  image: "/uploads/web%20header.2.jpg"
+  image: "/uploads/Gray%20Summer%20Kids%20Fun%20Memories%20Facebook%20Post-4ebeb6.png"
 quick_actions:
   want_to_golf:
     button_text: I want to golf
@@ -65,7 +65,7 @@ who_we_are:
 whats_new:
   text: "The tournament will be held at [Somerby Golf Club](http://www.somerby.com),
     Southeast Minnesota's premiere championship golf club, on May 23, 2022.\n\n**Schedule
-    for the day**\nRegistration and Breakfast 8:00-9:30 - \nAnnouncements 9:45\nShotgun
+    for the day**\nRegistration and Breakfast 8:00-9:30\nAnnouncements 9:45\nShotgun
     start 10:00\nSocial at 4:00 with program to follow\n\nThe tournament will be 18
     holes with a cart.  \n\n\n"
   image: "/uploads/Somerby.jpg"
@@ -81,7 +81,7 @@ sign_up:
   for_sponsors:
     text: 'We understand that not everyone is a golfer. However, there are sponsorship
       opportunities available, along with volunteer opportunities. For more information
-      contact Sarah Kvanli (([sarah.kvanli@expresspros.com]subject=Kid''s Cup Rochester
+      contact Sarah Kvanli ([sarah.kvanli@expresspros.com]subject=Kid''s Cup Rochester
       Sponsorship)). '
     button_link: mailto:sarah.kvanli@expresspros.com?subject=Kid's Cup Rochester Sponsorship
     button_text: I want to sponsor!
