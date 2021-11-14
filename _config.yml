@@ -102,7 +102,13 @@ corporate_sponsors:
 - image: "/uploads/sams_club_logo.png"
   name: Sam's Club
   link: https://samsclub.com
+- image: "/uploads/Sola.png"
+  name: Sola Salon Studios
+  link: https://www.solasalonstudios.com
 other_sponsors:
+- image: "/uploads/Sola.png"
+  name: Sola Salon Studios
+  link: https://www.solasalonstudios.com
 - image: "/uploads/First-Security-Bank-Byron-d05fe7.png"
   name: First Security Bank Byron
   link: https://www.fsbbyron.com/
@@ -112,9 +118,6 @@ other_sponsors:
 - image: "/uploads/Ames%20Construction.JPG"
   name: Ames Construction
   link: https://www.amesconstruction.com/
-- image: "/uploads/Sola.png"
-  name: Sola Salon Studios
-  link: https://www.solasalonstudios.com
 marketing_sponsors:
 - image: "/uploads/pro_image_logo.png"
   name: Pro Image
