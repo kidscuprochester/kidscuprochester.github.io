@@ -32,7 +32,8 @@ quick_actions:
     button_link: mailto:marge.kelley@expresspros.com?subject=Kid's Cup Rochester Tickets&body=I%20would%20like%20to%20purchase%20tickets%20to%20the%20Kid's%20Cup%20Social%20Hour%20and%20Dinner!
 next_event:
   date: 2022-05-23 08:00:00.000000000 Z
-  time: "8:00 registration\n9:45 announcements\n10:00 shotgun\n4:00 social "
+  time: "8:00-9:30 registration & breakfast - \n9:45 announcements -\n10:00 shotgun
+    -\n4:00 social with program to follow"
   location: Somerby Golf Club
   directions_url: https://www.google.com/maps/dir//''/@44.0477542,-92.6697751,13z/data=!4m8!4m7!1m0!1m5!1m1!1s0x87f742b8acef5c79:0xe0c57d3c2c3b35dd!2m2!1d-92.6347557!2d44.0476979
 who_we_are:
