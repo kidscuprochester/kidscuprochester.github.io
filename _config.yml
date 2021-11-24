@@ -20,7 +20,7 @@ intro:
 quick_actions:
   want_to_golf:
     button_text: I want to golf
-    button_link: https://secure.ministrysync.com/ministrysync/event/?e=19294
+    button_link: https://secure.ministrysync.com/ministrysync/RegistrationManager/PublicRegistration_Preopen.php?eid=22378&a
   want_to_donate:
     button_text: I want to donate
     button_link: https://secure.ministrysync.com/ministrysync/event/?e=19294
