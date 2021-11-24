@@ -23,7 +23,7 @@ quick_actions:
     button_link: https://secure.ministrysync.com/ministrysync/RegistrationManager/PublicRegistration_Preopen.php?eid=22378&a
   want_to_donate:
     button_text: I want to donate
-    button_link: https://secure.ministrysync.com/ministrysync/event/?e=19294
+    button_link: https://secure.ministrysync.com/ministrysync/RegistrationManager/PublicRegistration_Preopen.php?eid=22378&a
   want_to_sponsor:
     button_text: I want to sponsor
     button_link: mailto:sarah.kvanli@expresspros.com?subject=Kid's Cup Rochester Sponsorship&body=I%20would%20like%20to%20be%20a%20Kid's%20Cup%20sponsor!
