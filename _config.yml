@@ -20,12 +20,12 @@ intro:
 quick_actions:
   want_to_golf:
     button_text: I want to golf
-    button_link: https://secure.ministrysync.com/ministrysync/RegistrationManager/PublicRegistration_Preopen.php?eid=22378&a
+    button_link: https://secure.ministrysync.com/ministrysync/event/?e=22378
   want_to_donate:
     button_text: I want to donate
-    button_link: https://secure.ministrysync.com/ministrysync/RegistrationManager/PublicRegistration_Preopen.php?eid=22378&a
+    button_link: https://secure.ministrysync.com/ministrysync/event/?e=22378
   want_to_sponsor:
-    button_text: I want to sponsor
+    button_text: "I want to sponsor\n\n"
     button_link: mailto:sarah.kvanli@expresspros.com?subject=Kid's Cup Rochester Sponsorship&body=I%20would%20like%20to%20be%20a%20Kid's%20Cup%20sponsor!
   want_to_purchase_tickets:
     button_text: I want to buy tickets
