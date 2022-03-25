@@ -68,6 +68,8 @@ whats_new:
     start 10:00,\nSocial at 4:00 with program to follow\n\nThe tournament will be
     18 holes with a cart.  \n\n\n"
   image: "/uploads/Somerby.jpg"
+  Key:
+  - Follow us on Facebook
 sign_up:
   for_golfers:
     text: 'Registration is easy. Simply create your fund easy page [here](https://secure.ministrysync.com/ministrysync/event/?e=22378).
