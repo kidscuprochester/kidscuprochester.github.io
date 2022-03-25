@@ -69,8 +69,8 @@ whats_new:
     18 holes with a cart.  \n\n\n"
   image: "/uploads/Somerby.jpg"
   Text:
-  - "[](https://www.facebook.com/kidscuprochester)Visit our Facebook page where we
-    share videos, updates, and fundraising facts.  "
+  - 'Visit our [Facebook] (https://www.facebook.com/kidscuprochester)page where we
+    share videos, updates, and fundraising facts.  '
 sign_up:
   for_golfers:
     text: 'Registration is easy. Simply create your fund easy page [here](https://secure.ministrysync.com/ministrysync/event/?e=22378).
