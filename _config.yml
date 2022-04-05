@@ -94,19 +94,16 @@ presenting_sponsors:
   name: Trina Solano, Realtor
   link: https://www.edinarealty.com/trina-solano-realtor#/
 corporate_sponsors:
-- image: "/uploads/Trina%20logo%202020.JPG"
-  name: Trina Solano, Realtor
-  link: https://www.edinarealty.com/trina-solano-realtor#/
 - image: "/uploads/Sola.png"
   name: Sola Salon Studios
   link: https://www.solasalonstudios.com
 - image: "/uploads/somerby_logo.jpg"
   name: Somerby Golf Club
   link: http://www.somerby.com/
-other_sponsors:
 - image: "/uploads/Morris%20Concrete.png"
   name: Morris Concrete, Inc.
   link: https://www.facebook.com/pages/Morris-Concrete/164999316859681
+other_sponsors:
 - image: "/uploads/Ames%20Construction.JPG"
   name: Ames Construction
   link: https://www.amesconstruction.com/
