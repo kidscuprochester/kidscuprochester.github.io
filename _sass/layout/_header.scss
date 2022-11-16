@@ -4,7 +4,7 @@ header {
     left: 0;
     top: 0;
     @include box-shadow(0, 0, 10px, rgba(0,0,0,0.1));
-    background-color: $red;
+    background-color: $pepsi-blue;
     z-index: 1000;
     .container {
         padding: 0;
