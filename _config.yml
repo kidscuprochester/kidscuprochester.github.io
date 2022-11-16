@@ -37,24 +37,24 @@ next_event:
   location: Somerby Golf Club
   directions_url: https://www.google.com/maps/dir//''/@44.0477542,-92.6697751,13z/data=!4m8!4m7!1m0!1m5!1m1!1s0x87f742b8acef5c79:0xe0c57d3c2c3b35dd!2m2!1d-92.6347557!2d44.0476979
 who_we_are:
-  text: "The mission of our tournament is to make an impact on children’s stay at
-    the hospital, not only for the patients but for their parents and siblings.  The
-    money raised helps make children and their families hospital stays more tolerable
-    and comfortable.\n\nNow in its 26th year, Kid’s Cup Golf Tournament has raised
-    over $1.7 million benefiting children at Mayo Clinic Children’s Center and Olmsted
-    Medical Center. \n\nIn 2022, with 100 golfers, Kid’s Cup Golf Tournament raised
-    more than $123,000.\n\nRegister today to be a part of this great fundraising event!
-    \ Pledges raised by Kid's Cup golfers will help fund programs at Mayo Clinic Children’s
-    Center and Olmsted Medical Center.  All you need to do to play is raise $500.
-    \ It's easy, we'll even give you the tools to help you quickly raise your $500
-    goal. \n\nThe cost of Kid’s Cup Golf Tournament is underwritten by generous corporate
-    sponsors including Gillette Pepsi of Rochester, Trina Solano, Realtor - Edina
-    Realty, Sola Salon Studios, Sam’s Club, Ames Construction, Morris Concrete, Johnson
-    Printing, Pro Image Promotions, KIMT3, and iHeart Media.\n\nWe would love for
-    you to be a part of this amazing event benefiting kids.  Contact Sarah Kvanli
-    at skvanli@gillettepepsi.com for sponsorship details. \n\nWe look forward to seeing
-    you at the 26th Annual Kid’s Cup Golf Tournament May 22, 2023.\n\nFor questions,
-    please contact Sarah Kvanli, skvanli@gillettepepsi.com"
+  text: "The purpose and mission of our tournament is to make an impact on children’s
+    stay at the hospital, not only for the patients but for their parents and siblings.
+    \ The money raised helps make children and their families hospital stays more
+    tolerable and comfortable.\n\nNow in its 26th year, Kid’s Cup Golf Tournament
+    has raised over $1.6 million benefiting children at Mayo Clinic Children’s Center
+    and Olmsted Medical Center. \n\nIn 2021, with 100 golfers, Kid’s Cup Golf Tournament
+    raised more than $93,000.\n\nRegister today to be a part of this great fundraising
+    event!  Pledges raised by Kid's Cup golfers will help fund programs at Mayo Clinic
+    Children’s Center and Olmsted Medical Center.  All you need to do to play is raise
+    $500.  It's easy, we'll even give you the tools to help you quickly raise your
+    $500 goal. \n\nThe cost of Kid’s Cup Golf Tournament is underwritten by generous
+    corporate sponsors including Gillette Pepsi of Rochester, Trina Solano, Realtor
+    - Edina Realty, Sola Salon Studios, Sam’s Club, Ames Construction, Morris Concrete,
+    Johnson Printing, Pro Image Promotions, KIMT3, iHeart Media, and Mark and Sheryl
+    Tasler.\n\nWe would love for you to be a part of this amazing event benefiting
+    kids.  Contact Sarah Kvanli at skvanli@gillettepepsi.com for sponsorship details.
+    \n\nWe look forward to seeing you at the 26th Annual Kid’s Cup Golf Tournament
+    May 22, 2023.\n\nFor questions, please contact Sarah Kvanli, skvanli@gillettepepsi.com"
   image: "/uploads/Team%20High%20Five-54a5d6.jpg"
 whats_new:
   text: "The tournament will be held at [Somerby Golf Club](http://www.somerby.com),
@@ -82,32 +82,25 @@ sign_up:
     button_link: mailto:skvanli@gillettepepsi.com?subject=Kid's Cup Rochester Sponsorship
     button_text: I want to sponsor!
 presenting_sponsors:
-- image: "/uploads/express_logo.png"
-  name: Express Employment Professionals
-  link: https://www.expresspros.com/
+- image: "/uploads/Gillette-Pepsi-Rochester-Division-Logo-Full-Color-5fbcd8.png"
+  name: Gillette Pepsi Rochester
+  link: https://www.gillettepepsicola.com
+corporate_sponsors:
 - image: "/uploads/Trina%20logo%202020.JPG"
   name: Trina Solano, Realtor
   link: https://www.edinarealty.com/trina-solano-realtor#/
-corporate_sponsors:
-- image: "/uploads/Gillette-Pepsi-Rochester-Division-Logo-Full-Color-5fbcd8.png"
-  name: Pepsi-Cola Bottling of Rochester
-  link: http://rochester.gillettepepsicola.com/
 - image: "/uploads/Sola.png"
   name: Sola Salon Studios
   link: https://www.solasalonstudios.com
-- image: "/uploads/somerby_logo.jpg"
-  name: Somerby Golf Club
-  link: http://www.somerby.com/
-- image: "/uploads/Morris%20Concrete.png"
-  name: Morris Concrete, Inc.
-  link: https://www.facebook.com/pages/Morris-Concrete/164999316859681
-other_sponsors:
-- image: "/uploads/Ames%20Construction.JPG"
-  name: Ames Construction
-  link: https://www.amesconstruction.com/
 - image: "/uploads/SAMS.png"
   name: Sam's Club
   link: https://samsclub.com
+- image: "/uploads/Morris%20Concrete.png"
+  name: Morris Concrete, Inc.
+  link: https://www.facebook.com/pages/Morris-Concrete/164999316859681
+- image: "/uploads/Ames%20Construction.JPG"
+  name: Ames Construction
+  link: https://www.amesconstruction.com/
 marketing_sponsors:
 - image: "/uploads/pro_image_logo.png"
   name: Pro Image
