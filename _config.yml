@@ -95,12 +95,12 @@ corporate_sponsors:
 - image: "/uploads/SAMS.png"
   name: Sam's Club
   link: https://samsclub.com
-- image: "/uploads/Morris%20Concrete.png"
-  name: Morris Concrete, Inc.
-  link: https://www.facebook.com/pages/Morris-Concrete/164999316859681
 - image: "/uploads/Ames%20Construction.JPG"
   name: Ames Construction
   link: https://www.amesconstruction.com/
+- image: "/uploads/Morris%20Concrete.png"
+  name: Morris Concrete, Inc.
+  link: https://www.facebook.com/pages/Morris-Concrete/164999316859681
 marketing_sponsors:
 - image: "/uploads/pro_image_logo.png"
   name: Pro Image
