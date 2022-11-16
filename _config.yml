@@ -81,7 +81,7 @@ sign_up:
       contact Sarah Kvanli. \n\n\n\n"
     button_link: mailto:skvanli@gillettepepsi.com?subject=Kid's Cup Rochester Sponsorship
     button_text: I want to sponsor!
-presenting_sponsors:
+presenting_sponsor:
 - image: "/uploads/Gillette-Pepsi-Rochester-Division-Logo-Full-Color-5fbcd8.png"
   name: Gillette Pepsi Rochester
   link: https://www.gillettepepsicola.com
