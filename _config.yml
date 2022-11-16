@@ -26,10 +26,10 @@ quick_actions:
     button_link: https://secure.ministrysync.com/ministrysync/event/?e=22378
   want_to_sponsor:
     button_text: "I want to sponsor\n\n"
-    button_link: mailto:sarah.kvanli@expresspros.com?subject=Kid's Cup Rochester Sponsorship&body=I%20would%20like%20to%20be%20a%20Kid's%20Cup%20sponsor!
+    button_link: mailto:skvanli@gillettepepsi.com?subject=Kid's Cup Rochester Sponsorship&body=I%20would%20like%20to%20be%20a%20Kid's%20Cup%20sponsor!
   want_to_purchase_tickets:
     button_text: I want to buy tickets
-    button_link: mailto:sarah.kvanli@expresspros.com?subject=Kid's Cup Rochester Tickets&body=I%20would%20like%20to%20purchase%20tickets%20to%20the%20Kid's%20Cup%20Social%20Hour%20and%20Dinner!
+    button_link: mailto:skvanli@gillettepepsi.com?subject=Kid's Cup Rochester Tickets&body=I%20would%20like%20to%20purchase%20tickets%20to%20the%20Kid's%20Cup%20Social%20Hour%20and%20Dinner!
 next_event:
   date: 2023-05-22 08:00:00.000000000 Z
   time: "8:00-9:30 registration & breakfast - \n9:45 announcements - \n10:00 shotgun
@@ -64,7 +64,7 @@ who_we_are:
   image: "/uploads/Team%20High%20Five-54a5d6.jpg"
 whats_new:
   text: "The tournament will be held at [Somerby Golf Club](http://www.somerby.com),
-    Southeast Minnesota's premiere championship golf club, on May 23, 2022.\n\n**Schedule
+    Southeast Minnesota's premiere championship golf club, on May 22, 2023.\n\n**Schedule
     for the day**\nRegistration and Breakfast 8:00-9:30,\nAnnouncements 9:45,\nShotgun
     start 10:00,\nSocial at 4:00 with program to follow\n\nThe tournament will be
     18 holes with a cart.  \n\n\n"
@@ -85,7 +85,7 @@ sign_up:
     text: "We understand that not everyone is a golfer. However, there are sponsorship
       opportunities available, along with volunteer opportunities. For more information
       contact Sarah Kvanli. \n\n\n\n"
-    button_link: mailto:sarah.kvanli@expresspros.com?subject=Kid's Cup Rochester Sponsorship
+    button_link: mailto:skvanli@gillettepepsi.com?subject=Kid's Cup Rochester Sponsorship
     button_text: I want to sponsor!
 presenting_sponsors:
 - image: "/uploads/express_logo.png"
