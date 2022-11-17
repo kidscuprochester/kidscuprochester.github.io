@@ -16,14 +16,14 @@ markdown: kramdown
 plugins:
 - jekyll-feed
 intro:
-  image: "/uploads/KidsCup%20Grass%20Banner%20Temporary.jpg"
+  image: "/uploads/web%20header.jpg"
 quick_actions:
   want_to_golf:
     button_text: I want to golf
-    button_link: https://secure.fundeasy.com/ministrysync/event/?e=24146
+    button_link: https://secure.ministrysync.com/ministrysync/event/?e=22378
   want_to_donate:
     button_text: I want to donate
-    button_link: https://secure.fundeasy.com/ministrysync/event/?e=24146
+    button_link: https://secure.ministrysync.com/ministrysync/event/?e=22378
   want_to_sponsor:
     button_text: "I want to sponsor\n\n"
     button_link: mailto:skvanli@gillettepepsi.com?subject=Kid's Cup Rochester Sponsorship&body=I%20would%20like%20to%20be%20a%20Kid's%20Cup%20sponsor!
@@ -68,12 +68,12 @@ whats_new:
     share videos, updates, and fundraising facts.  '
 sign_up:
   for_golfers:
-    text: 'Registration is easy. Simply create your fund easy page [here](https://secure.fundeasy.com/ministrysync/event/?e=24146).
+    text: 'Registration is easy. Simply create your fund easy page [here](https://secure.ministrysync.com/ministrysync/event/?e=22378).
       Once registered, you can direct potential donors to your site and share the
       link on Facebook and Twitter.  If you receive donations as cash or check, simply
       record the donations on your Fund Easy page, and contact skvanli@gillettepepsi.com
       for direction for cash or check collection prior to the event.   '
-    button_link: https://secure.fundeasy.com/ministrysync/event/?e=24146
+    button_link: https://secure.ministrysync.com/ministrysync/event/?e=22378
     button_text: I want to give!
   for_sponsors:
     text: "We understand that not everyone is a golfer. However, there are sponsorship
@@ -98,9 +98,6 @@ corporate_sponsors:
 - image: "/uploads/Ames%20Construction.JPG"
   name: Ames Construction
   link: https://www.amesconstruction.com/
-- image: "/uploads/Morris%20Concrete.png"
-  name: Morris Concrete, Inc.
-  link: https://www.facebook.com/pages/Morris-Concrete/164999316859681
 event_sponsors:
   image: "/uploads/Morris%20Concrete.png"
   name: Morris Concrete, Inc.
