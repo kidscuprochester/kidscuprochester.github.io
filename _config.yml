@@ -16,7 +16,7 @@ markdown: kramdown
 plugins:
 - jekyll-feed
 intro:
-  image: "/uploads/KidsCup%20Grass%20Banner%20Temporary.jpg"
+  image: "/uploads/KidsCup%20website%20Banner.jpg"
 quick_actions:
   want_to_golf:
     button_text: I want to golf
