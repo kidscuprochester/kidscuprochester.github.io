@@ -115,7 +115,7 @@ layout: default
                 <div class="item flex-100">
                     <h4 class="is-center-aligned is-subsection-heading">Marketing Sponsors</h4>
                 </div> {% for sponsor in site.marketing_sponsors %} <div
-                    class="item flex-25 flex-33-tablet has-padding-two has-gutter has-centered-content has-white-background">
+                    class="item flex-20 flex-33-tablet has-padding-two has-gutter has-centered-content has-white-background">
                     <a href="{{ sponsor.link}}" target="_blank" class="item-overlay-link"></a> <img
                         src="{{ sponsor.image }}" class="has-no-margins" /> </div> {% endfor %}
             </div>
