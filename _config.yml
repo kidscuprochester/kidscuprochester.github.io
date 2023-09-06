@@ -20,10 +20,10 @@ intro:
 quick_actions:
   want_to_golf:
     button_text: I want to golf
-    button_link: https://secure.fundeasy.com/ministrysync/event/?e=24146
+    button_link: https://secure.fundeasy.com/ministrysync/event/?e=26083
   want_to_donate:
     button_text: I want to donate
-    button_link: https://secure.fundeasy.com/ministrysync/event/?e=24146
+    button_link: https://secure.fundeasy.com/ministrysync/event/?e=26083
   want_to_sponsor:
     button_text: "I want to sponsor\n\n"
     button_link: mailto:skvanli@gillettepepsi.com?subject=Kid's Cup Rochester Sponsorship&body=I%20would%20like%20to%20be%20a%20Kid's%20Cup%20sponsor!
