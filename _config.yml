@@ -31,7 +31,7 @@ quick_actions:
     button_text: I want to buy tickets
     button_link: mailto:skvanli@gillettepepsi.com?subject=Kid's Cup Rochester Tickets&body=I%20would%20like%20to%20purchase%20tickets%20to%20the%20Kid's%20Cup%20Social%20Hour%20and%20Dinner!
 next_event:
-  date: 2023-05-22 08:00:00.000000000 Z
+  date: 2024-05-13 08:00:00.000000000 Z
   time: "8:00-9:30 registration & breakfast - \n9:45 announcements - \n10:00 shotgun
     -\n4:00 social with program to follow"
   location: Somerby Golf Club
@@ -40,10 +40,10 @@ who_we_are:
   text: "The mission of our tournament is to make an impact on children’s stay at
     the hospital, not only for the patients but for their parents and siblings.  The
     money raised helps make children and their families hospital stays more tolerable
-    and comfortable.\n\nNow in its **26th year**, **Kid’s Cup Golf Tournament** has
-    raised over **$1.7 million** benefiting children at Mayo Clinic Children’s Center
-    and Olmsted Medical Center. In 2022, with 100 golfers, Kid’s Cup Golf Tournament
-    raised more than $123,000.\n\nPledges raised by Kid's Cup golfers will help fund
+    and comfortable.\n\nNow in its **27th year**, **Kid’s Cup Golf Tournament** has
+    raised over **$1.8 million** benefiting children at Mayo Clinic Children’s Center
+    and Olmsted Medical Center. In 2023, with 83 golfers, Kid’s Cup Golf Tournament
+    raised more than $97,000.\n\nPledges raised by Kid's Cup golfers will help fund
     programs at Mayo Clinic Children’s Center and Olmsted Medical Center. All you
     need to do to play is raise $500.  It's easy, we'll even give you the tools to
     help you quickly raise your $500 goal. \n\nThe cost of Kid’s Cup Golf Tournament
@@ -51,12 +51,12 @@ who_we_are:
     **Trina Solano, Realtor - Edina Realty, Inc**., **Sola Salon Studios**, **Sam’s
     Club**, **Ames Construction**, and **Morris Concrete**. \n\nRegister today to
     be a part of this great fundraising event! Contact Sarah Kvanli at skvanli@gillettepepsi.com
-    for more information.  **See you at the 26th Annual Kid’s Cup Golf Tournament
-    May 22, 2023.**\n"
+    for more information.  **See you at the 27th Annual Kid’s Cup Golf Tournament
+    May 13, 2024.**\n"
   image: "/uploads/Team%20High%20Five-54a5d6.jpg"
 whats_new:
   text: "The tournament will be held at [Somerby Golf Club](http://www.somerby.com),
-    Southeast Minnesota's premiere championship golf club, on May 22, 2023.\n\n**Schedule
+    Southeast Minnesota's premiere championship golf club, on May 13, 2024.\n\n**Schedule
     for the day**\nRegistration and Breakfast 8:00-9:30,\nAnnouncements 9:45,\nShotgun
     start 10:00,\nSocial at 4:00 with program to follow\n\nThe tournament will be
     18 holes with a cart.  \n\n\n"
@@ -66,12 +66,12 @@ whats_new:
     share videos, updates, and fundraising facts.  '
 sign_up:
   for_golfers:
-    text: 'Registration is easy. Simply create your fund easy page [here](https://secure.fundeasy.com/ministrysync/event/?e=24146).
+    text: 'Registration is easy. Simply create your fund easy page [here](https://secure.fundeasy.com/ministrysync/event/?e=26083).
       Once registered, you can direct potential donors to your site and share the
       link on Facebook and Twitter.  If you receive donations as cash or check, simply
       record the donations on your Fund Easy page, and contact skvanli@gillettepepsi.com
       for direction for cash or check collection prior to the event.   '
-    button_link: https://secure.fundeasy.com/ministrysync/event/?e=24146
+    button_link: https://secure.fundeasy.com/ministrysync/event/?e=26083
     button_text: I want to give!
   for_sponsors:
     text: "We understand that not everyone is a golfer. However, there are sponsorship
@@ -80,9 +80,9 @@ sign_up:
     button_link: mailto:skvanli@gillettepepsi.com?subject=Kid's Cup Rochester Sponsorship
     button_text: I want to sponsor!
 presenting_sponsors:
-- image: "/uploads/Gillette-Pepsi-Rochester-Division-Logo-Full-Color-5fbcd8.png"
-  name: Gillette Pepsi Rochester
-  link: https://www.gillettepepsicola.com
+- image: "/uploads/GPC%20Lockup%20-%20Primary%20-%20Full%20Color.png"
+  name: GPC
+  link: https://www.gpcbeverage.com
 corporate_sponsors:
 - image: "/uploads/Trina%20logo%202020.JPG"
   name: Trina Solano, Realtor
