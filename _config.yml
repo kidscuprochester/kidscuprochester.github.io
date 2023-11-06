@@ -26,10 +26,10 @@ quick_actions:
     button_link: https://secure.fundeasy.com/ministrysync/event/?e=26083
   want_to_sponsor:
     button_text: "I want to sponsor\n\n"
-    button_link: mailto:skvanli@gillettepepsi.com?subject=Kid's Cup Rochester Sponsorship&body=I%20would%20like%20to%20be%20a%20Kid's%20Cup%20sponsor!
+    button_link: mailto:kidscup@gillettepepsi.com?subject=Kid's Cup Rochester Sponsorship&body=I%20would%20like%20to%20be%20a%20Kid's%20Cup%20sponsor!
   want_to_purchase_tickets:
     button_text: I want to buy tickets
-    button_link: mailto:skvanli@gillettepepsi.com?subject=Kid's Cup Rochester Tickets&body=I%20would%20like%20to%20purchase%20tickets%20to%20the%20Kid's%20Cup%20Social%20Hour%20and%20Dinner!
+    button_link: mailto:kidscup@gillettepepsi.com?subject=Kid's Cup Rochester Tickets&body=I%20would%20like%20to%20purchase%20tickets%20to%20the%20Kid's%20Cup%20Social%20Hour%20and%20Dinner!
 next_event:
   date: 2024-05-13 08:00:00.000000000 Z
   time: "8:00-9:30 registration & breakfast - \n9:45 announcements - \n10:00 shotgun
@@ -50,7 +50,7 @@ who_we_are:
     is underwritten by generous corporate sponsors including **Gillette Pepsi of Rochester**,
     **Trina Solano, Realtor - Edina Realty, Inc**., **Sola Salon Studios**, **Sam’s
     Club**, **Ames Construction**, and **Morris Concrete**. \n\nRegister today to
-    be a part of this great fundraising event! Contact Sarah Kvanli at skvanli@gillettepepsi.com
+    be a part of this great fundraising event! Contact Sarah Kvanli at kidscup@gillettepepsi.com
     for more information.  **See you at the 27th Annual Kid’s Cup Golf Tournament
     May 13, 2024.**\n"
   image: "/uploads/Team%20High%20Five-54a5d6.jpg"
@@ -69,15 +69,15 @@ sign_up:
     text: 'Registration is easy. Simply create your fund easy page [here](https://secure.fundeasy.com/ministrysync/event/?e=26083).
       Once registered, you can direct potential donors to your site and share the
       link on Facebook and Twitter.  If you receive donations as cash or check, simply
-      record the donations on your Fund Easy page, and contact skvanli@gillettepepsi.com
+      record the donations on your Fund Easy page, and contact kidscup@gillettepepsi.com
       for direction for cash or check collection prior to the event.   '
     button_link: https://secure.fundeasy.com/ministrysync/event/?e=26083
     button_text: I want to give!
   for_sponsors:
     text: "We understand that not everyone is a golfer. However, there are sponsorship
       opportunities available, along with volunteer opportunities. For more information
-      contact Sarah Kvanli. \n\n\n\n"
-    button_link: mailto:skvanli@gillettepepsi.com?subject=Kid's Cup Rochester Sponsorship
+      contact us. \n\n\n\n"
+    button_link: mailto:kidscup@gillettepepsi.com?subject=Kid's Cup Rochester Sponsorship
     button_text: I want to sponsor!
 presenting_sponsors:
 - image: "/uploads/GPC%20Lockup%20-%20Primary%20-%20Full%20Color.png"
